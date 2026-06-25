@@ -1,4 +1,6 @@
-Grade breakdown based on spec below:
+<strong>Grade breakdown based on spec below:</strong>
+<br>
+<br>
 
 Main Menu
 10 / 10
@@ -8,6 +10,7 @@ Menu Option 1
 
 Menu Option 2
 19 / 20
+- Some wrong characters in the character list (-1)
 
 Menu Option 3
 10 / 10
@@ -17,15 +20,22 @@ Menu Option 4
 
 Menu Option 5
 19 / 20
+- Display the full utterance by a character (-1). 
 
 Code Quality
 8 / 10
-
+- Do not mix actual logic and IO in the same function. (-2) 
+<br>
 <strong>Total Grade</strong>:  96/100
 
 
+<br>
+<br>
+<br>
+<strong>Marking Criteria:</strong>
+<br>
+<br>
 
-5 Marking Criteria
 
 Main Menu 10 pts
 - 3 pts All menu options present.
