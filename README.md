@@ -21,7 +21,7 @@ Menu Option 5
 Code Quality
 8 / 10
 
-Total: 96/100
+<strong>Total Grade</strong>:  96/100
 
 
 
